@@ -1,7 +1,6 @@
 # Currency-Converter
 Reactive Currency Converter written using Clean Architecture Pattern, MVVM, Koin, Coroutines, Livedata with Unit Testing and Integration Testing done 
 
-
 - Fully written in Kotlin
 - Implemented Search UI with Bottom Sheet
 - SearchView is focused as soon as opened for better UX
@@ -20,3 +19,12 @@ Reactive Currency Converter written using Clean Architecture Pattern, MVVM, Koin
 - Everything is reactive
 - Used Koin for DI
 - Both Unit Testing and Integration Testing are written
+
+--------
+**Screenshots**
+
+<img src="screenshots/main-page.jpeg" width="350" />
+
+<img src="screenshots/currency-selection.jpeg" width="350" />
+
+<img src="screenshots/empty-ui.jpeg" width="350" />
