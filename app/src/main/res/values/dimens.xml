@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="currency_code_size">16sp</dimen>
+    <dimen name="currency_value_size">15sp</dimen>
+    <dimen name="empty_image_size">65dp</dimen>
+</resources>

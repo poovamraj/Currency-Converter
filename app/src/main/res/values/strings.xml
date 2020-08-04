@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="empty">-</string>
+    <string name="change">Change</string>
+    <string name="last_synced_on">Last Synced On</string>
+    <string name="converter_hint">Enter amount to be converter</string>
+    <string name="empty_info">No data found</string>
+</resources>
